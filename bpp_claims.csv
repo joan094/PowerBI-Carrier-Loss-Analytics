@@ -1,0 +1,5 @@
+claim_id,order_id,claim_type,refund_amount,claim_status
+9001,1004,Non Delivery,210.0,Approved
+9002,1005,Stolen,1150.0,Approved
+9003,1006,Damaged,75.25,Approved
+9004,1008,Non Delivery,540.0,Pending

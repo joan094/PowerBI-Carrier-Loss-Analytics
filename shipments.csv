@@ -1,0 +1,11 @@
+shipment_id,order_id,carrier_name,hub_location,delivery_status
+5001,1001,FastExpress,Hub Norte - CABA,Delivered
+5002,1002,LogiSouth,Hub Sur - Avellaneda,Delivered
+5003,1003,FastExpress,Hub Norte - CABA,Delivered
+5004,1004,RapidCargo,Hub Oeste - Moron,Lost
+5005,1005,RapidCargo,Hub Oeste - Moron,Lost
+5006,1006,FastExpress,Hub Norte - CABA,Damaged
+5007,1007,LogiSouth,Hub Sur - Avellaneda,Delivered
+5008,1008,RapidCargo,Hub Oeste - Moron,Lost
+5009,1009,FastExpress,Hub Norte - CABA,In Transit
+5010,1010,LogiSouth,Hub Sur - Avellaneda,In Transit
